@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -7,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ShaneFrancis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/shane-francis-90a967205/) [![Medium Badge](https://img.shields.io/badge/-@shanefr-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/@shanefr27)
 [![Gmail Badge](https://img.shields.io/badge/-shanefr27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:shanefr27@gmail.com)
 
-👋 Hi, I'm Shane Francis, a Computer Science student at Ontario Tech University with a passion for mobile development, AI, and networking. I enjoy building innovative apps using Flutter and Firebase, and I'm currently leading the Google Developer Groups on my campus. Always eager to learn, collaborate, and contribute to open-source projects!
+👋 Hi, I'm **Shane Francis**, a Computer Science student at Ontario Tech University with a passion for mobile development, data analytics, AI, and networking. I enjoy building innovative apps using Flutter and Firebase, and I'm currently leading the Google Developer Groups on my campus. Always eager to learn, collaborate, and contribute to open-source projects!
 
 
 ## 👯 Communities
