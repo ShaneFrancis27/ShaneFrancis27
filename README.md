@@ -6,7 +6,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShaneFrancis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/shane-francis-90a967205/) [![Medium Badge](https://img.shields.io/badge/-@shanefr-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/@shanefr27)
 [![Gmail Badge](https://img.shields.io/badge/-shanefr27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:shanefr27@gmail.com)
-<a href = 'https://github.com/ShaneFrancis27'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+## 👯 Communities
+
+- **Technical Lead** at Google Developer Groups, Ontario Tech University.
+- **Chainlink Bootcamp Participant** (Learning CCIP - Cross-Chain Interoperability Protocol).
+- **Participant** at Google Developer Student Club (DSC).
+- **Youth Advisory Member** at Toronto Public Library's Digital Projects.
+- **Ambassador** for AI Events (e.g., MinstoneTorontoAI Community).
+- **Club Member** of Ontario Tech Computer Science Club.
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href=  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
