@@ -7,13 +7,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ShaneFrancis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/shane-francis-90a967205/) [![Medium Badge](https://img.shields.io/badge/-@shanefr-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/@shanefr27)
 [![Gmail Badge](https://img.shields.io/badge/-shanefr27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:shanefr27@gmail.com)
 
+👋 Hi, I'm Shane Francis, a Computer Science student at Ontario Tech University with a passion for mobile development, AI, and networking. I enjoy building innovative apps using Flutter and Firebase, and I'm currently leading the Google Developer Groups on my campus. Always eager to learn, collaborate, and contribute to open-source projects!
+
+
 ## 👯 Communities
 
 - **Technical Lead** at Google Developer Groups, Ontario Tech University.
 - **Chainlink Bootcamp Participant** (Learning CCIP - Cross-Chain Interoperability Protocol).
-- **Participant** at Google Developer Student Club (DSC).
 - **Youth Advisory Member** at Toronto Public Library's Digital Projects.
-- **Ambassador** for AI Events (e.g., MinstoneTorontoAI Community).
+- **Participant** for AI Events (e.g., MinstoneTorontoAI Community).
 - **Club Member** of Ontario Tech Computer Science Club.
 
 
@@ -29,7 +31,6 @@
 <a href=  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href=  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href=  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href=  > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/shane-francis-90a967205/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
