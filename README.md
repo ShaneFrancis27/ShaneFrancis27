@@ -14,7 +14,7 @@
 - **Technical Lead** at Google Developer Groups, Ontario Tech University.
 - **Chainlink Bootcamp Participant** (Learning CCIP - Cross-Chain Interoperability Protocol).
 - **Youth Advisory Member** at Toronto Public Library's Digital Projects.
-- **Participant** for AI Events (e.g., MinstoneTorontoAI Community).
+- **Participant** for Machine Learning Events (e.g., MinstoneTorontoAI Community).
 - **Club Member** of Ontario Tech Computer Science Club.
 
 
